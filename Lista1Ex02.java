@@ -19,10 +19,10 @@ public class Lista1Ex02 {
 
 		} else if (numero < 0 && numero % 2 == -1) {
 			System.out.println("O número " + numero + " é ímpar e negativo!");
-			
+
 		} else if (numero < 0 && numero % 2 != -1) {
 			System.out.println("O número " + numero + " é par e negativo!");
-			
+
 		} else if (numero >= 0 && numero % 2 == 1) {
 			System.out.println("O número " + numero + " é ímpar e positivo!");
 		}
